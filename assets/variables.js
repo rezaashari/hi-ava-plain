@@ -9,11 +9,11 @@ const variables = {
   quotes: [
     { quote: "I'm sorry for loving you.", author: "standinhsd" },
     { quote: "I love you.", author: "Brian" },
-    { quote: "Aku sayang kamu!", author: "Ian" },
-    { quote: "Ian sayang Ava ♥", author: "Ian-nya Ava!" },
+    { quote: "Aku sayang kamu!", author: "Ezaa" },
+    { quote: "Ezaa sayang Ifaa ♥", author: "Ezaa-nya Ifaa!" },
     { quote: "Love chuuu", author: "Bribri" },
   ],
-  nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
+  nicknames: ["Ifaa", "ayangg", "Sayang", "Babe", "bee", "Dear"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
